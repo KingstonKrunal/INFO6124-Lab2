@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab2 Krunal Kitchen</string>
+    <string name="add_button">ADD</string>
+    <string name="remove_last">Remove Last</string>
+    <string name="remove_all">Remove All</string>
+
+    <string name="close_activity">Close Activity</string>
+    <string name="kitchen_type1">Straight Kitchen</string>
+    <string name="kitchen_type2">One Wall Kitchen</string>
+    <string name="kitchen_tiles">Tiles</string>
+
+    <string name="kitchen_list">kitchen_list</string>
+    <string name="textview">TextView</string>
+</resources>
